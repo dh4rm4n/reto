@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Empleos Choucair Testing S.A." skipped="3" tests="4" time="7.96" timestamp="2021-06-08 02:11:44"><testcase name="Pagina principal empleos"><error message="no such window: target window already closed&#10;from unknown error: web view not found&#10;  (Session info: chrome=91.0.4472.77)&#10;Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'&#10;System info: host: 'DESKTOP-5I6C58F', ip: '192.168.20.25', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'&#10;Driver info: org.openqa.selenium.remote.RemoteWebDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.77, chrome: {chromedriverVersion: 91.0.4472.19 (1bf021f248676..., userDataDir: C:\Users\AUDYCH~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:63155}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}&#10;Session ID: 588006acabe10278322b3ce3f53f54e5&#10;*** Element info: {Using=xpath, value=//h3/a[.='Â¿QuÃ© es ser Choucair?']}" type="org.openqa.selenium.NoSuchWindowException">no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.77)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-5I6C58F', ip: '192.168.20.25', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.77, chrome: {chromedriverVersion: 91.0.4472.19 (1bf021f248676..., userDataDir: C:\Users\AUDYCH~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:63155}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 588006acabe10278322b3ce3f53f54e5
+*** Element info: {Using=xpath, value=//h3/a[.='Â¿QuÃ© es ser Choucair?']}</error><system-err>no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.77)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-5I6C58F', ip: '192.168.20.25', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.77, chrome: {chromedriverVersion: 91.0.4472.19 (1bf021f248676..., userDataDir: C:\Users\AUDYCH~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:63155}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 588006acabe10278322b3ce3f53f54e5
+*** Element info: {Using=xpath, value=//h3/a[.='Â¿QuÃ© es ser Choucair?']}&#13;
+tasks.QueesChoucair.performAs(QueesChoucair.java:16)&#13;
+stepdefinitions.PruebaRetoStepDefinitions.QueesChoucair(PruebaRetoStepDefinitions.java:38)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase><testcase name="Que es choucair"><skipped/></testcase><testcase name="Prepararse para aplicar"><skipped/></testcase><testcase name="Portal de Empleos"><skipped/></testcase></testsuite>

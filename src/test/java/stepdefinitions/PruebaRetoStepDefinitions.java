@@ -8,14 +8,9 @@ import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.abilities.BrowseTheWeb;
 import net.thucydides.core.annotations.Managed;
 import org.fluentlenium.core.annotation.Page;
-import org.hamcrest.Matchers;
 import org.openqa.selenium.WebDriver;
-import questions.QueesChoucair;
-import questions.PrepararseAplicar;
 import tasks.AbrirElBrowser;
-import tasks.PrepararseAplicar;
 import userinterfaces.InicioPage;
-import static net.serenitybdd.screenplay.GivenWhenThen.seeThat;
 
 public class PruebaRetoStepDefinitions {
 
